@@ -36,6 +36,5 @@ Expected Output:<br />
 > Mars_Direction: Contain moves in 4 (WEST,EAST,NORTH,SOUTH)<br />
 > mars_coordinates: coordinates mars in world
 Mars_Position: what is board and coordinates <br />
-Mars_Globe: weights and height world <br />
 Mars_Rover: Rover's move sequence <br />
 Mars_Moves: Rover's move (forword, backword, Left, Right) <br />
